@@ -1,4 +1,4 @@
-# JobScraping Project
+# JobScraping Project👎🏽
 
 This repository automates job scraping from multiple sources, saving the results into a CSV and a stylized HTML file with search functionality.
 
